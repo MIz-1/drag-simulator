@@ -24,7 +24,7 @@ This simulator uses the drag force equation from fluid dynamics to calculate and
 
 ## 📊 Simulation Result
 
-![Drag Force Graph](images/drag simulator.png)
+![Drag Force Graph](images/drag_simulator.png)
 
 At 350 km/h:
 - Normal Car: ~4,200 Newtons of drag
